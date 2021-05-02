@@ -199,4 +199,25 @@ TransformMatchingTex
 MaintainPositionRelativeTo
 UpdateFromAlphaFunc
 UpdateFromFunc
+BackgroundColoredVMobjectDisplayer
+Camera
+MappingCamera
+OldMultiCamera
+SplitScreenCamera
+CameraFrame
+MovingCamera
+MultiCamera
+ThreeDCamera
+ManimConfig
+ManimFrame
+JSONFormatter
+Colors
+DictAsObject
+CustomEncoder
+ManimMagic
+TexTemplate
+TexTemplateFromFile
+TexFontTemplates
+TexTemplateLibrary
+Container
 
