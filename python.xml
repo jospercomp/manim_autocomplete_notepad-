@@ -1756,7 +1756,7 @@
 		<KeyWord name="TransformMatchingTex" func="yes">
 			<Overload retVal="" descr="TransformMatchingTex(mobject, target_mobject, transform_mismatches=False, fade_transform_mismatches=False, key_map=None, **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="MaintainPositionRelativeTo" func="yes">
 			<Overload retVal="" descr="MaintainPositionRelativeTo(mobject, tracked_mobject, **kwargs)">
 			</Overload>
@@ -1768,9 +1768,91 @@
 		<KeyWord name="UpdateFromFunc" func="yes">
 			<Overload retVal="" descr="UpdateFromFunc(mobject, update_function, suspend_mobject_updating=False, **kwargs)">
 			</Overload>
-		</KeyWord>	
-
-
+		</KeyWord>
+		<KeyWord name="BackgroundColoredVMobjectDisplayer" func="yes">
+			<Overload retVal="" descr="BackgroundColoredVMobjectDisplayer(camera)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Camera" func="yes">
+			<Overload retVal="" descr="Camera(background_image=None, frame_center=array([0., 0., 0.]), image_mode='RGBA', n_channels=4, pixel_array_dtype='uint8', z_buff_func=<function Camera.<lambda>>, cairo_line_width_multiple=0.01, use_z_index=True, background=None, pixel_height=None, pixel_width=None, frame_height=None, frame_width=None, frame_rate=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="MappingCamera" func="yes">
+			<Overload retVal="" descr="MappingCamera(mapping_func=<function MappingCamera.<lambda>>, min_num_curves=50, allow_object_intrusion=False, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="OldMultiCamera" func="yes">
+			<Overload retVal="" descr="OldMultiCamera(*cameras_with_start_positions, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SplitScreenCamera" func="yes">
+			<Overload retVal="" descr="SplitScreenCamera(left_camera, right_camera, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="CameraFrame" func="yes">
+			<Overload retVal="" descr="CameraFrame(center=array([0.0, 0.0, 0.0]), **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="MovingCamera" func="yes">
+			<Overload retVal="" descr="MovingCamera(frame=None, fixed_dimension=0, default_frame_stroke_color='#FFFFFF', default_frame_stroke_width=0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="MultiCamera" func="yes">
+			<Overload retVal="" descr="MultiCamera(image_mobjects_from_cameras=None, allow_cameras_to_capture_their_own_display=False, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ThreeDCamera" func="yes">
+			<Overload retVal="" descr="ThreeDCamera(distance=20.0, shading_factor=0.2, default_distance=5.0, light_source_start_point=array([- 7.0, - 9.0, 10.0]), should_apply_shading=True, exponential_projection=False, phi=0, theta=- 1.5707963267948966, gamma=0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ManimConfig" func="yes">
+			<Overload retVal="" descr="ManimConfig">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ManimFrame" func="yes">
+			<Overload retVal="" descr="ManimFrame">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="JSONFormatter" func="yes">
+			<Overload retVal="" descr="JSONFormatter(fmt=None, datefmt=None, style='%', validate=True)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Colors" func="yes">
+			<Overload retVal="" descr="Colors(value)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="DictAsObject" func="yes">
+			<Overload retVal="" descr="DictAsObject(dictin)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="CustomEncoder" func="yes">
+			<Overload retVal="" descr="CustomEncoder(*, skipkeys=False, ensure_ascii=True, check_circular=True, allow_nan=True, sort_keys=False, indent=None, separators=None, default=None)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ManimMagic" func="yes">
+			<Overload retVal="" descr="ManimMagic(**kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TexTemplate" func="yes">
+			<Overload retVal="" descr="TexTemplate(tex_compiler=None, output_format=None, documentclass=None, preamble=None, placeholder_text=None, post_doc_commands=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TexTemplateFromFile" func="yes">
+			<Overload retVal="" descr="TexTemplateFromFile(**kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TexFontTemplates" func="yes">
+			<Overload retVal="" descr="TexFontTemplates">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TexTemplateLibrary" func="yes">
+			<Overload retVal="" descr="TexTemplateLibrary">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Container" func="yes">
+			<Overload retVal="" descr="Container(**kwargs)">
+			</Overload>
+		</KeyWord>
 <!-- ================================== -->
 <!-- PYTHON MANIM CE COMMUNITY COMMANDS -->
 <!-- PYTHON MANIM CE CONSTANTS COMMANDS -->
