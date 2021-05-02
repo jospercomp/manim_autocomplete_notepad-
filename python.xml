@@ -1004,40 +1004,40 @@
 		<KeyWord name="AnnotationDot" func="yes">
 			<Overload retVal="" descr="AnnotationDot(radius=0.10400000000000001, stroke_width=5, stroke_color='#FFFFFF', fill_color='#58C4DD', **kwargs)">
 			</Overload>
-		</KeyWord>		
+		</KeyWord>
 		<KeyWord name="AnnularSector" func="yes">
 			<Overload retVal="" descr="AnnularSector(inner_radius=1, outer_radius=2, angle=1.5707963267948966, start_angle=0, fill_opacity=1, stroke_width=0, color='#FFFFFF', **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="Annulus" func="yes">
-			<Overload retVal="" descr="Annulus(inner_radius=1, outer_radius=2, fill_opacity=1, stroke_width=0, color='#FFFFFF', mark_paths_closed=False, **kwargs)">		
+			<Overload retVal="" descr="Annulus(inner_radius=1, outer_radius=2, fill_opacity=1, stroke_width=0, color='#FFFFFF', mark_paths_closed=False, **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="Arc" func="yes">
 			<Overload retVal="" descr="Arc(start_angle=0, angle=1.5707963267948966, radius=1.0, num_components=9, anchors_span_full_range=True, arc_center=array([0.0, 0.0, 0.0]), **kwargs)">
 			</Overload>
-		</KeyWord>			
+		</KeyWord>
 		<KeyWord name="ArcBetweenPoints" func="yes">
 			<Overload retVal="" descr="ArcBetweenPoints(start, end, angle=1.5707963267948966, radius=None, **kwargs)">
 			</Overload>
-		</KeyWord>			
+		</KeyWord>
 		<KeyWord name="ArcPolygon" func="yes">
 			<Overload retVal="" descr="ArcPolygon(*vertices, angle=0.7853981633974483, radius=None, arc_config=None, **kwargs)">
 			</Overload>
 		</KeyWord>
-		<KeyWord name="ArcPolygonFromArcs" func="yes">		
+		<KeyWord name="ArcPolygonFromArcs" func="yes">
 			<Overload retVal="" descr="ArcPolygonFromArcs(*arcs, **kwargs)">
 			</Overload>
-		</KeyWord>		
-		<KeyWord name="Arrow" func="yes">		
+		</KeyWord>
+		<KeyWord name="Arrow" func="yes">
 			<Overload retVal="" descr="Arrow(*args, stroke_width=6, buff=0.25, max_tip_length_to_length_ratio=0.25, max_stroke_width_to_length_ratio=5, preserve_tip_size_when_scaling=True, **kwargs)">
 			</Overload>
-		</KeyWord>	
-		<KeyWord name="ArrowCircleFilledTip" func="yes">		
+		</KeyWord>
+		<KeyWord name="ArrowCircleFilledTip" func="yes">
 			<Overload retVal="" descr="ArrowCircleFilledTip(fill_opacity=1, stroke_width=0, **kwargs)">
 			</Overload>
 		</KeyWord>
-		<KeyWord name="ArrowCircleTip" func="yes">		
+		<KeyWord name="ArrowCircleTip" func="yes">
 			<Overload retVal="" descr="ArrowCircleTip(fill_opacity=0, stroke_width=3, length=0.35, start_angle=3.141592653589793, **kwargs)">
 			</Overload>
 		</KeyWord>
@@ -1049,38 +1049,38 @@
 			<Overload retVal="" descr="ArrowSquareTip(fill_opacity=0, stroke_width=3, length=0.35, start_angle=3.141592653589793, **kwargs)">
 			</Overload>
 		</KeyWord>
-		<KeyWord name="ArrowTip" func="yes">		
+		<KeyWord name="ArrowTip" func="yes">
 			<Overload retVal="" descr="ArrowTip(*args, **kwargs)">
 			</Overload>
-		</KeyWord>		
+		</KeyWord>
 		<KeyWord name="ArrowTriangleFilledTip" func="yes">
 			<Overload retVal="" descr="ArrowTriangleFilledTip(fill_opacity=1, stroke_width=0, **kwargs)">
 			</Overload>
-		</KeyWord>			
+		</KeyWord>
 		<KeyWord name="ArrowTriangleTip" func="yes">
 			<Overload retVal="" descr="ArrowTriangleTip(fill_opacity=0, stroke_width=3, length=0.35, start_angle=3.141592653589793, **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="Circle" func="yes">
 			<Overload retVal="" descr="Circle(color='#FC6255', close_new_points=True, anchors_span_full_range=False, **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="CubicBezier" func="yes">
 			<Overload retVal="" descr="CubicBezier(start_anchor, start_handle, end_handle, end_anchor, **kwargs)">
 			</Overload>
 		</KeyWord>
 		<KeyWord name="CurvedArrow" func="yes">
-			<Overload retVal="" descr="CurvedArrow(start_point, end_point, **kwargs)">		
+			<Overload retVal="" descr="CurvedArrow(start_point, end_point, **kwargs)">
 			</Overload>
-		</KeyWord>		
+		</KeyWord>
 		<KeyWord name="CurvedDoubleArrow" func="yes">
 			<Overload retVal="" descr="CurvedDoubleArrow(start_point, end_point, **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="Cutout" func="yes">
 			<Overload retVal="" descr="Cutout(main_shape, *mobjects, **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="DashedLine" func="yes">
 			<Overload retVal="" descr="DashedLine(*args, dash_length=0.05, dash_spacing=None, positive_space_ratio=0.5, **kwargs)">
 			</Overload>
@@ -1088,7 +1088,7 @@
 		<KeyWord name="Dot" func="yes">
 			<Overload retVal="" descr="Dot(point=array([0.0, 0.0, 0.0]), radius=0.08, stroke_width=0, fill_opacity=1.0, color='#FFFFFF', **kwargs)">
 			</Overload>
-		</KeyWord>		
+		</KeyWord>
 		<KeyWord name="DoubleArrow" func="yes">
 			<Overload retVal="" descr="DoubleArrow(*args, **kwargs)">
 			</Overload>
@@ -1096,366 +1096,696 @@
 		<KeyWord name="Elbow" func="yes">
 			<Overload retVal="" descr="Elbow(width=0.2, angle=0, **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="Ellipse" func="yes">
 			<Overload retVal="" descr="Ellipse(width=2, height=1, **kwargs)">
 			</Overload>
-		</KeyWord>			
+		</KeyWord>
 		<KeyWord name="LabeledDot" func="yes">
 			<Overload retVal="" descr="LabeledDot(label, radius=None, **kwargs)">
 			</Overload>
-		</KeyWord>	
+		</KeyWord>
 		<KeyWord name="Line" func="yes">
 			<Overload retVal="" descr="Line(start=array([- 1.0, 0.0, 0.0]), end=array([1.0, 0.0, 0.0]), buff=0, path_arc=None, **kwargs)">
-			</Overload>	
-		</KeyWord>		
+			</Overload>
+		</KeyWord>
 		<KeyWord name="Polygon" func="yes">
 			<Overload retVal="" descr="Polygon(*vertices, color='#58C4DD', **kwargs)">
-			</Overload>	
-		</KeyWord>	
+			</Overload>
+		</KeyWord>
 		<KeyWord name="Rectangle" func="yes">
 			<Overload retVal="" descr="Rectangle(color='#FFFFFF', height=2.0, width=4.0, mark_paths_closed=True, close_new_points=True, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="RegularPolygon" func="yes">
 			<Overload retVal="" descr="RegularPolygon(n=6, start_angle=None, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="RightAngle" func="yes">
 			<Overload retVal="" descr="RightAngle(line1, line2, length=None, **kwargs)">
-			</Overload>	
-		</KeyWord>		
+			</Overload>
+		</KeyWord>
 		<KeyWord name="RoundedRectangle" func="yes">
 			<Overload retVal="" descr="RoundedRectangle(corner_radius=0.5, **kwargs)">
-			</Overload>	
-		</KeyWord>			
+			</Overload>
+		</KeyWord>
 		<KeyWord name="Sector" func="yes">
 			<Overload retVal="" descr="Sector(outer_radius=1, inner_radius=0, **kwargs)">
-			</Overload>	
-		</KeyWord>		
+			</Overload>
+		</KeyWord>
 		<KeyWord name="SmallDot" func="yes">
 			<Overload retVal="" descr="SmallDot(radius=0.04, **kwargs)">
-			</Overload>	
-		</KeyWord>		
+			</Overload>
+		</KeyWord>
 		<KeyWord name="Square" func="yes">
 			<Overload retVal="" descr="Square(side_length=2.0, **kwargs)">
-			</Overload>	
-		</KeyWord>	
+			</Overload>
+		</KeyWord>
 		<KeyWord name="TangentLine" func="yes">
 			<Overload retVal="" descr="TangentLine(vmob, alpha, length=1, d_alpha=1e-06, **kwargs)">
-			</Overload>	
-		</KeyWord>			
+			</Overload>
+		</KeyWord>
 		<KeyWord name="TipableVMobject" func="yes">
 			<Overload retVal="" descr="TipableVMobject(tip_length=0.35, normal_vector=array([0.0, 0.0, 1.0]), tip_style={}, **kwargs)">
-			</Overload>	
-		</KeyWord>	
+			</Overload>
+		</KeyWord>
 		<KeyWord name="Triangle" func="yes">
 			<Overload retVal="" descr="Triangle(**kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="Vector" func="yes">
 			<Overload retVal="" descr="Vector(direction=array([1.0, 0.0, 0.0]), buff=0, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="Graph" func="yes">
 			<Overload retVal="" descr="Graph(vertices, edges, labels=False, label_fill_color='#000000', layout='spring', layout_scale=2, layout_config=None, vertex_type=<class 'manim.mobject.geometry.Dot'>, vertex_config=None, edge_type=<class 'manim.mobject.geometry.Line'>, partitions=None, root_vertex=None, edge_config=None)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="ManimBanner" func="yes">
 			<Overload retVal="" descr="ManimBanner(dark_theme=True)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="DecimalMatrix" func="yes">
 			<Overload retVal="" descr="DecimalMatrix(matrix, element_to_mobject=<class 'manim.mobject.numbers.DecimalNumber'>, element_to_mobject_config={'num_decimal_places': 1}, **kwargs)" >
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="IntegerMatrix" func="yes">
 			<Overload retVal="" descr="IntegerMatrix(matrix, element_to_mobject=<class 'manim.mobject.numbers.Integer'>, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="Matrix" func="yes">
 			<Overload retVal="" descr="Matrix(matrix, v_buff=0.8, h_buff=1.3, bracket_h_buff=0.25, bracket_v_buff=0.25, add_background_rectangles_to_entries=False, include_background_rectangle=False, element_to_mobject=<class 'manim.mobject.svg.tex_mobject.MathTex'>, element_to_mobject_config={}, element_alignment_corner=array([ 1., -1., 0.]), left_bracket='\\big[', right_bracket='\\big]', **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="MobjectMatrix" func="yes">
 			<Overload retVal="" descr="MobjectMatrix(matrix, element_to_mobject=<function MobjectMatrix.<lambda>>, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="Group" func="yes">
 			<Overload retVal="" descr="Group(*mobjects, **kwargs)">
-			</Overload>	
-		</KeyWord>	
+			</Overload>
+		</KeyWord>
 		<KeyWord name="Mobject" func="yes">
 			<Overload retVal="" descr="Mobject(color='#FFFFFF', name=None, dim=3, target=None, z_index=0, **kwargs)">
-			</Overload>	
-		</KeyWord>			
+			</Overload>
+		</KeyWord>
 		<KeyWord name="NumberLine" func="yes">
 			<Overload retVal="" descr="NumberLine(color='#BBBBBB', unit_size=1, width=None, rotation=0, include_ticks=True, tick_size=0.1, tick_frequency=1, leftmost_tick=None, numbers_with_elongated_ticks=[0], include_numbers=False, numbers_to_show=None, longer_tick_multiple=2, number_at_center=0, number_scale_val=0.75, label_direction=array([0.0, - 1.0, 0.0]), line_to_number_buff=0.25, include_tip=False, tip_width=0.25, tip_height=0.25, add_start=0, add_end=0, decimal_number_config={'num_decimal_places': 0}, exclude_zero_from_default_numbers=False, x_min=- 7.111111111111111, x_max=7.111111111111111, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="UnitInterval" func="yes">
 			<Overload retVal="" descr="UnitInterval(unit_size=6, tick_frequency=0.1, numbers_with_elongated_ticks=[0, 1], number_at_center=0.5, decimal_number_config={'num_decimal_places': 1}, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
 		<KeyWord name="DecimalNumber" func="yes">
 			<Overload retVal="" descr="DecimalNumber(number=0, num_decimal_places=2, include_sign=False, group_with_commas=True, digit_to_digit_buff=0.05, show_ellipsis=False, unit=None, include_background_rectangle=False, edge_to_fix=array([- 1.0, 0.0, 0.0]), **kwargs)">
-			</Overload>	
-		</KeyWord>		
+			</Overload>
+		</KeyWord>
 		<KeyWord name="Integer" func="yes">
 			<Overload retVal="" descr="Integer(number=0, num_decimal_places=0, **kwargs)">
-			</Overload>	
-		</KeyWord>			
+			</Overload>
+		</KeyWord>
 		<KeyWord name="Variable" func="yes">
 			<Overload retVal="" descr="Variable(var, label, var_type=<class 'manim.mobject.numbers.DecimalNumber'>, num_decimal_places=2, **kwargs)">
-			</Overload>	
-		</KeyWord>		
-		<KeyWord name="BarChart" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="BarChart" func="yes">
 			<Overload retVal="" descr="BarChart(values, height=4, width=6, n_ticks=4, tick_width=0.2, label_y_axis=True, y_axis_label_height=0.25, max_value=1, bar_colors=['#58C4DD', '#FFFF00'], bar_fill_opacity=0.8, bar_stroke_width=3, bar_names=[], bar_label_scale_val=0.75, **kwargs)">
-			</Overload>	
-		</KeyWord>		
-		<KeyWord name="SampleSpace" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SampleSpace" func="yes">
 			<Overload retVal="" descr="SampleSpace(height=3, width=3, fill_color='#444444', fill_opacity=1, stroke_width=0.5, stroke_color='#BBBBBB', default_label_scale_val=1)">
-			</Overload>	
-		</KeyWord>				
-		<KeyWord name="BackgroundRectangle" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="BackgroundRectangle" func="yes">
 			<Overload retVal="" descr="BackgroundRectangle(mobject, color='#000000', stroke_width=0, stroke_opacity=0, fill_opacity=0.75, buff=0, **kwargs)">
-			</Overload>	
-		</KeyWord>		
-		<KeyWord name="Cross" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Cross" func="yes">
 			<Overload retVal="" descr="Cross(mobject, stroke_color='#FC6255', stroke_width=6, **kwargs)">
-			</Overload>	
-		</KeyWord>				
-		<KeyWord name="SurroundingRectangle" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SurroundingRectangle" func="yes">
 			<Overload retVal="" descr="SurroundingRectangle(mobject, color='#FFFF00', buff=0.1, **kwargs)">
-			</Overload>	
-		</KeyWord>		
-		<KeyWord name="Underline" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Underline" func="yes">
 			<Overload retVal="" descr="Underline(mobject, buff=0.1, **kwargs)">
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="Arrow3D" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Arrow3D" func="yes">
 			<Overload retVal="" descr="Arrow3D(start=array([- 1.0, 0.0, 0.0]), end=array([1.0, 0.0, 0.0]), thickness=0.02, height=0.5, base_radius=0.25, color='#FFFFFF', **kwargs)">
-			</Overload>	
-		</KeyWord>				
-		<KeyWord name="Cone" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Cone" func="yes">
 			<Overload retVal="" descr="Cone(base_radius=1, height=1, direction=array([0.0, 0.0, 1.0]), show_base=False, v_min=0, v_max=6.283185307179586, u_min=0, checkerboard_colors=False, **kwargs)">
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="Cube" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Cube" func="yes">
 			<Overload retVal="" descr="Cube(side_length=2, fill_opacity=0.75, fill_color='#58C4DD', stroke_width=0, **kwargs)">
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="Cylinder" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Cylinder" func="yes">
 			<Overload retVal="" descr="Cylinder(radius=1, height=2, direction=array([0.0, 0.0, 1.0]), v_min=0, v_max=6.283185307179586, show_ends=True, resolution=24, **kwargs)">
-			</Overload>	
-		</KeyWord>		
-		<KeyWord name="Dot3D" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Dot3D" func="yes">
 			<Overload retVal="" descr="Dot3D(radius=0.08, color='#FFFFFF', **kwargs)">
-			</Overload>	
-		</KeyWord>		
-		<KeyWord name="Line3D" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Line3D" func="yes">
 			<Overload retVal="" descr="Line3D(start=array([- 1.0, 0.0, 0.0]), end=array([1.0, 0.0, 0.0]), thickness=0.02, color=None, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="ParametricSurface" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ParametricSurface" func="yes">
 			<Overload retVal="" descr="ParametricSurface(func, u_min=0, u_max=1, v_min=0, v_max=1, resolution=32, surface_piece_config={}, fill_color='#29ABCA', fill_opacity=1.0, checkerboard_colors=['#29ABCA', '#1C758A'], stroke_color='#BBBBBB', stroke_width=0.5, should_make_jagged=False, pre_function_handle_to_anchor_scale_factor=1e-05, **kwargs)">
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="Prism" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Prism" func="yes">
 			<Overload retVal="" descr="Prism(dimensions=[3, 2, 1], **kwargs)">
-			</Overload>	
-		</KeyWord>				
-		<KeyWord name="Sphere" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Sphere" func="yes">
 			<Overload retVal="" descr="Sphere(radius=1, resolution=12, 24, u_min=0.001, u_max=3.1405926535897932, v_min=0, v_max=6.283185307179586, **kwargs)">
-			</Overload>	
-		</KeyWord>				
-		<KeyWord name="ThreeDVMobject" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ThreeDVMobject" func="yes">
 			<Overload retVal="" descr="ThreeDVMobject(shade_in_3d=True, **kwargs)">
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="Torus" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Torus" func="yes">
 			<Overload retVal="" descr="Torus(major_radius=3, minor_radius=1, u_min=0, u_max=6.283185307179586, v_min=0, v_max=6.283185307179586, resolution=24, **kwargs)">
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="ComplexValueTracker" func="yes">		
-			<Overload retVal="" descr="ComplexValueTracker(value=0, **kwargs)">	
-			</Overload>	
-		</KeyWord>		
-		<KeyWord name="ExponentialValueTracker" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ComplexValueTracker" func="yes">
+			<Overload retVal="" descr="ComplexValueTracker(value=0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ExponentialValueTracker" func="yes">
 			<Overload retVal="" descr="ExponentialValueTracker(value=0, **kwargs)">
-			</Overload>	
-		</KeyWord>				
-		<KeyWord name="ValueTracker" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ValueTracker" func="yes">
 			<Overload retVal="" descr="ValueTracker(value=0, **kwargs)">
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="AnimatedStreamLines" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="AnimatedStreamLines" func="yes">
 			<Overload retVal="" descr="AnimatedStreamLines(stream_lines, lag_range=4, line_anim_class=<class 'manim.animation.indication.ShowPassingFlash'>, line_anim_config={'rate_func': <function linear>, 'run_time': 4, 'time_width': 0.3}, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="ShowPassingFlashWithThinningStrokeWidth" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowPassingFlashWithThinningStrokeWidth" func="yes">
 			<Overload retVal="" descr="ShowPassingFlashWithThinningStrokeWidth(vmobject, n_segments=10, time_width=0.1, remover=True, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="StreamLines" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="StreamLines" func="yes">
 			<Overload retVal="" descr="StreamLines(func, start_points_generator_config={}, x_min=- 8, x_max=8, y_min=- 5, y_max=5, delta_x=0.5, delta_y=0.5, n_repeats=1, noise_factor=None, dt=0.05, virtual_time=3, n_anchors_per_line=100, stroke_width=1, stroke_color='#FFFFFF', color_by_arc_length=True, min_arc_length=0, max_arc_length=12, color_by_magnitude=False, min_magnitude=0.5, max_magnitude=1.5, colors=['#1C758A', '#83C167', '#FFFF00', '#FC6255'], cutoff_norm=15, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="VectorField" func="yes">		
+		<KeyWord name="VectorField" func="yes">
 			<Overload retVal="" descr="VectorField(func, delta_x=0.5, delta_y=0.5, min_magnitude=0, max_magnitude=2, colors=['#1C758A', '#83C167', '#FFFF00', '#FC6255'], length_func=<function VectorField.<lambda>>, opacity=1.0, vector_config=None, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="Brace" func="yes">		
+		<KeyWord name="Brace" func="yes">
 			<Overload retVal="" descr="Brace(mobject, direction=array([0.0, - 1.0, 0.0]), buff=0.2, width_multiplier=2, max_num_quads=15, min_num_quads=0, background_stroke_width=0, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="BraceBetweenPoints" func="yes">		
+		<KeyWord name="BraceBetweenPoints" func="yes">
 			<Overload retVal="" descr="BraceBetweenPoints(point_1, point_2, direction=array([0.0, 0.0, 0.0]), **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="BraceLabel" func="yes">		
+		<KeyWord name="BraceLabel" func="yes">
 			<Overload retVal="" descr="BraceLabel(obj, text, brace_direction=array([ 0., -1., 0.]), label_constructor=<class 'manim.mobject.svg.tex_mobject.MathTex'>, label_scale=1, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="BraceText" func="yes">		
+		<KeyWord name="BraceText" func="yes">
 			<Overload retVal="" descr="BraceText(obj, text, label_constructor=<class 'manim.mobject.svg.tex_mobject.Tex'>, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="Code" func="yes">		
+		<KeyWord name="Code" func="yes">
 			<Overload retVal="" descr="Code(file_name=None, code=None, tab_width=3, line_spacing=0.3, scale_factor=0.5, font='Monospac821 BT', stroke_width=0, margin=0.3, indentation_chars=' ', background='rectangle', background_stroke_width=1, background_stroke_color='#FFFFFF', corner_radius=0.2, insert_line_no=True, line_no_from=1, line_no_buff=0.4, style='vim', language=None, generate_html_file=False, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="SVGPathMobject" func="yes">		
+		<KeyWord name="SVGPathMobject" func="yes">
 			<Overload retVal="" descr="SVGPathMobject(path_string, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="VMobjectFromSVGPathstring" func="yes">		
+		<KeyWord name="VMobjectFromSVGPathstring" func="yes">
 			<Overload retVal="" descr="VMobjectFromSVGPathstring(*args, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="SVGMobject" func="yes">		
+		<KeyWord name="SVGMobject" func="yes">
 			<Overload retVal="" descr="SVGMobject(file_name=None, should_center=True, height=2, width=None, unpack_groups=True, stroke_width=4, fill_opacity=1.0, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="AbstractImageMobject" func="yes">		
+		<KeyWord name="AbstractImageMobject" func="yes">
 			<Overload retVal="" descr="AbstractImageMobject(scale_to_resolution, pixel_array_dtype='uint8', **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="ImageMobject" func="yes">		
+		<KeyWord name="ImageMobject" func="yes">
 			<Overload retVal="" descr="ImageMobject(filename_or_array, scale_to_resolution=1080, invert=False, image_mode='RGBA', **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="ImageMobjectFromCamera" func="yes">		
+		<KeyWord name="ImageMobjectFromCamera" func="yes">
 			<Overload retVal="" descr="ImageMobjectFromCamera(camera, default_display_frame_config=None, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="Mobject1D" func="yes">		
+		<KeyWord name="Mobject1D" func="yes">
 			<Overload retVal="" descr="Mobject1D(density=10, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="Mobject2D" func="yes">		
+		<KeyWord name="Mobject2D" func="yes">
 			<Overload retVal="" descr="Mobject2D(density=25, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="PGroup" func="yes">		
+		<KeyWord name="PGroup" func="yes">
 			<Overload retVal="" descr="PGroup(*pmobs, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="PMobject" func="yes">		
+		<KeyWord name="PMobject" func="yes">
 			<Overload retVal="" descr="PMobject(stroke_width=4, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="Point" func="yes">		
+		<KeyWord name="Point" func="yes">
 			<Overload retVal="" descr="Point(location=array([0.0, 0.0, 0.0]), color='#000000', **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="PointCloudDot" func="yes">		
+		<KeyWord name="PointCloudDot" func="yes">
 			<Overload retVal="" descr="PointCloudDot(center=array([0.0, 0.0, 0.0]), radius=2.0, stroke_width=2, density=10, color='#FFFF00', **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="CurvesAsSubmobjects" func="yes">		
+		<KeyWord name="CurvesAsSubmobjects" func="yes">
 			<Overload retVal="" descr="CurvesAsSubmobjects(vmobject, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="DashedVMobject" func="yes">		
+		<KeyWord name="DashedVMobject" func="yes">
 			<Overload retVal="" descr="DashedVMobject(vmobject, num_dashes=15, positive_space_ratio=0.5, color='#FFFFFF', **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="VDict" func="yes">		
+		<KeyWord name="VDict" func="yes">
 			<Overload retVal="" descr="VDict(mapping_or_iterable={}, show_keys=False, **kwargs)">
 			</Overload>
 		</KeyWord>
-		<KeyWord name="VGroup" func="yes">		
+		<KeyWord name="VGroup" func="yes">
 			<Overload retVal="" descr="VGroup(*vmobjects, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="VMobject" func="yes">		
+		<KeyWord name="VMobject" func="yes">
 			<Overload retVal="" descr="VMobject(fill_color=None, fill_opacity=0.0, stroke_color=None, stroke_opacity=1.0, stroke_width=4, background_stroke_color='#000000', background_stroke_opacity=1.0, background_stroke_width=0, sheen_factor=0.0, sheen_direction=array([- 1.0, 1.0, 0.0]), close_new_points=False, pre_function_handle_to_anchor_scale_factor=0.01, make_smooth_after_applying_functions=False, background_image_file=None, shade_in_3d=False, tolerance_for_point_equality=1e-06, n_points_per_cubic_curve=4, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="VectorizedPoint" func="yes">		
+		<KeyWord name="VectorizedPoint" func="yes">
 			<Overload retVal="" descr="VectorizedPoint(location=array([0.0, 0.0, 0.0]), color='#000000', fill_opacity=0, stroke_width=0, artificial_width=0.01, artificial_height=0.01, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="SceneFileWriter" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SceneFileWriter" func="yes">
 			<Overload retVal="" descr="SceneFileWriter(renderer, scene_name, **kwargs)">
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="SpecialThreeDScene" func="yes">		
-			<Overload retVal="" descr="SpecialThreeDScene(cut_axes_at_radius=True, camera_config={'exponential_projection': True, 'should_apply_shading': True}, three_d_axes_config={'axis_config': {'numbers_with_elongated_ticks': [0, 1, 2], 'stroke_width': 2, 'tick_frequency': 1, 'unit_size': 2}, 'num_axis_pieces': 1}, sphere_config={'radius': 2, 'resolution': 24, 48}, default_angled_camera_position={'phi': 1.2217304763960306, 'theta': - 1.9198621771937625}, low_quality_config={'camera_config': {'should_apply_shading': False}, 'sphere_config': {'resolution': 12, 24}, 'three_d_axes_config': {'num_axis_pieces': 1}}, **kwargs)">	
-			</Overload>	
-		</KeyWord>			
-		<KeyWord name="ThreeDScene" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SpecialThreeDScene" func="yes">
+			<Overload retVal="" descr="SpecialThreeDScene(cut_axes_at_radius=True, camera_config={'exponential_projection': True, 'should_apply_shading': True}, three_d_axes_config={'axis_config': {'numbers_with_elongated_ticks': [0, 1, 2], 'stroke_width': 2, 'tick_frequency': 1, 'unit_size': 2}, 'num_axis_pieces': 1}, sphere_config={'radius': 2, 'resolution': 24, 48}, default_angled_camera_position={'phi': 1.2217304763960306, 'theta': - 1.9198621771937625}, low_quality_config={'camera_config': {'should_apply_shading': False}, 'sphere_config': {'resolution': 12, 24}, 'three_d_axes_config': {'num_axis_pieces': 1}}, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ThreeDScene" func="yes">
 			<Overload retVal="" descr="ThreeDScene(camera_class=<class 'manim.camera.three_d_camera.ThreeDCamera'>, ambient_camera_rotation=None, default_angled_camera_orientation_kwargs=None, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="LinearTransformationScene" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="LinearTransformationScene" func="yes">
 			<Overload retVal="" descr="LinearTransformationScene(include_background_plane=True, include_foreground_plane=True, background_plane_kwargs={'axis_config': {'color': '#888888'}, 'background_line_style': {'stroke_color': '#888888', 'stroke_width': 1}, 'color': '#888888'}, show_coordinates=False, show_basis_vectors=True, basis_vector_stroke_width=6, i_hat_color='#83C167', j_hat_color='#FC6255', leave_ghost_vectors=False, t_matrix=[[3, 0], [1, 2]], **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="VectorScene" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="VectorScene" func="yes">
 			<Overload retVal="" descr="VectorScene(basis_vector_stroke_width=6, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="ZoomedScene" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ZoomedScene" func="yes">
 			<Overload retVal="" descr="ZoomedScene(camera_class=<class 'manim.camera.multi_camera.MultiCamera'>, zoomed_display_height=3, zoomed_display_width=3, zoomed_display_center=None, zoomed_display_corner=array([1., 1., 0.]), zoomed_display_corner_buff=0.5, zoomed_camera_config={'background_opacity': 1, 'default_frame_stroke_width': 2}, zoomed_camera_image_mobject_config={}, zoomed_camera_frame_starting_position=array([0., 0., 0.]), zoom_factor=0.15, image_frame_stroke_width=3, zoom_activated=False, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="GraphScene" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="GraphScene" func="yes">
 			<Overload retVal="" descr="GraphScene(x_min=- 1, x_max=10, x_axis_width=9, x_leftmost_tick=None, x_labeled_nums=None, x_axis_label='$x$', y_min=- 1, y_max=10, y_axis_height=6, y_bottom_tick=None, y_labeled_nums=None, y_axis_label='$y$', axes_color='#888888', graph_origin=array([- 4.0, - 2.5, 0.0]), exclude_zero_label=True, default_graph_colors=['#58C4DD', '#83C167', '#FFFF00'], default_derivative_color='#83C167', default_input_color='#FFFF00', default_riemann_start_color='#58C4DD', default_riemann_end_color='#83C167', area_opacity=0.8, num_rects=50, include_tip=False, x_axis_visibility=True, y_axis_visibility=True, x_label_position=array([1.0, 1.0, 0.0]), y_label_position=array([1.0, 1.0, 0.0]), x_axis_config=None, y_axis_config=None, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="MovingCameraScene" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="MovingCameraScene" func="yes">
 			<Overload retVal="" descr="MovingCameraScene(camera_class=<class 'manim.camera.moving_camera.MovingCamera'>, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="ReconfigurableScene" func="yes">		
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ReconfigurableScene" func="yes">
 			<Overload retVal="" descr="ReconfigurableScene(allow_recursion=True, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
-		<KeyWord name="SampleSpaceScene" func="yes">		
+		<KeyWord name="SampleSpaceScene" func="yes">
 			<Overload retVal="" descr="SampleSpaceScene(renderer=None, camera_class=<class 'manim.camera.camera.Camera'>, always_update_mobjects=False, random_seed=0, **kwargs)">
-			</Overload>	
-		</KeyWord>	
-		<KeyWord name="Scene" func="yes">		
-			<Overload retVal="" descr="Scene(renderer=None, camera_class=<class 'manim.camera.camera.Camera'>, always_update_mobjects=False, random_seed=0, **kwargs)">
-			</Overload>	
+			</Overload>
 		</KeyWord>
+		<KeyWord name="Scene" func="yes">
+			<Overload retVal="" descr="Scene(renderer=None, camera_class=<class 'manim.camera.camera.Camera'>, always_update_mobjects=False, random_seed=0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Animation" func="yes">
+			<Overload retVal="" descr="Animation(mobject, lag_ratio=0.0, run_time=1.0, rate_func=<function smooth>, name=None, remover=False, suspend_mobject_updating=True, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Wait" func="yes">
+			<Overload retVal="" descr="Wait(duration=1, stop_condition=None, **kwargs)" >
+			</Overload>
+		</KeyWord>
+		<KeyWord name="AnimationGroup" func="yes">
+			<Overload retVal="" descr="AnimationGroup(*animations, group=None, run_time=None, rate_func=<function linear>, lag_ratio=0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="LaggedStart" func="yes">
+			<Overload retVal="" descr="LaggedStart(*animations, lag_ratio=0.05, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="LaggedStartMap" func="yes">
+			<Overload retVal="" descr="LaggedStartMap(AnimationClass, mobject, arg_creator=None, run_time=2, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Succession" func="yes">
+			<Overload retVal="" descr="Succession(*animations, lag_ratio=1, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="AddTextLetterByLetter" func="yes">
+			<Overload retVal="" descr="AddTextLetterByLetter(text, suspend_mobject_updating=False, int_func=<ufunc 'ceil'>, rate_func=<function linear>, time_per_char=0.1, run_time=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="AddTextWordByWord" func="yes">
+			<Overload retVal="" descr="AddTextWordByWord(text_mobject, run_time=None, time_per_char=0.06, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Create" func="yes">
+			<Overload retVal="" descr="Create(mobject, lag_ratio=1.0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="DrawBorderThenFill" func="yes">
+			<Overload retVal="" descr="DrawBorderThenFill(vmobject, run_time=2, rate_func=<function double_smooth>, stroke_width=2, stroke_color=None, draw_border_animation_config={}, fill_animation_config={}, **kwargs)" >
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowCreation" func="yes">
+			<Overload retVal="" descr="ShowCreation(mobject, lag_ratio=1.0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowIncreasingSubsets" func="yes">
+			<Overload retVal="" descr="ShowIncreasingSubsets(group, suspend_mobject_updating=False, int_func=<ufunc 'floor'>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowPartial" func="yes">
+			<Overload retVal="" descr="ShowPartial(mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowSubmobjectsOneByOne" func="yes">
+			<Overload retVal="" descr="ShowSubmobjectsOneByOne(group, int_func=<ufunc 'ceil'>, **kwargs) ">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Uncreate" func="yes">
+			<Overload retVal="" descr="Uncreate(mobject, rate_func=<function Uncreate.<lambda>>, remover=True, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Unwrite" func="yes">
+			<Overload retVal="" descr="Unwrite(vmobject, run_time=None, lag_ratio=None, rate_func=<function linear>, reverse=False, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Write" func="yes">
+			<Overload retVal="" descr="Write(vmobject, run_time=None, lag_ratio=None, rate_func=<function linear>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeIn" func="yes">
+			<Overload retVal="" descr="FadeIn(vmobject, lag_ratio=0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeInFrom" func="yes">
+			<Overload retVal="" descr="FadeInFrom(mobject, direction=array([0.0, - 1.0, 0.0]), **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeInFromLarge" func="yes">
+			<Overload retVal="" descr="FadeInFromLarge(mobject, scale_factor=2, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeInFromPoint" func="yes">
+			<Overload retVal="" descr="FadeInFromPoint(mobject, point, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeOut" func="yes">
+			<Overload retVal="" descr="FadeOut(vmobject, remover=True, lag_ratio=0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeOutAndShift" func="yes">
+			<Overload retVal="" descr="FadeOutAndShift(mobject, direction=array([0.0, - 1.0, 0.0]), **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeOutToPoint" func="yes">
+			<Overload retVal="" descr="FadeOutToPoint(mobject, point=array([0.0, 0.0, 0.0]), **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="VFadeIn" func="yes">
+			<Overload retVal="" descr="VFadeIn(mobject, suspend_mobject_updating=False, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="VFadeInThenOut" func="yes">
+			<Overload retVal="" descr="VFadeInThenOut(mobject, remover=True, rate_func=<function there_and_back>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="VFadeOut" func="yes">
+			<Overload retVal="" descr="VFadeOut(mobject, remover=True, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="GrowArrow" func="yes">
+			<Overload retVal="" descr="GrowArrow(arrow, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="GrowFromCenter" func="yes">
+			<Overload retVal="" descr="GrowFromCenter(mobject, point_color=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="GrowFromEdge" func="yes">
+			<Overload retVal="" descr="GrowFromEdge(mobject, edge, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="GrowFromPoint" func="yes">
+			<Overload retVal="" descr="GrowFromPoint(mobject, point, point_color=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SpinInFromNothing" func="yes">
+			<Overload retVal="" descr="SpinInFromNothing(mobject, path_arc=3.141592653589793, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="AnimationOnSurroundingRectangle" func="yes">
+			<Overload retVal="" descr="AnimationOnSurroundingRectangle(mobject, rect_animation=<class 'manim.animation.animation.Animation'>, surrounding_rectangle_config={}, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ApplyWave" func="yes">
+			<Overload retVal="" descr="ApplyWave(mobject, direction=array([0.0, 1.0, 0.0]), amplitude=0.2, run_time=1, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="CircleIndicate" func="yes">
+			<Overload retVal="" descr="CircleIndicate(mobject, circle_config={'color': '#FFFF00'}, rate_func=<function there_and_back>, remover=True, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Flash" func="yes">
+			<Overload retVal="" descr="Flash(point, line_length=0.2, num_lines=12, flash_radius=0.3, line_stroke_width=3, color='#FFFF00', run_time=1.0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FocusOn" func="yes">
+			<Overload retVal="" descr="FocusOn(focus_point, opacity=0.2, color='#888888', run_time=2, remover=True, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Indicate" func="yes">
+			<Overload retVal="" descr="Indicate(mobject, scale_factor=1.2, color='#FFFF00', rate_func=<function there_and_back>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowCreationThenDestruction" func="yes">
+			<Overload retVal="" descr="ShowCreationThenDestruction(mobject, time_width=2.0, run_time=1, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowCreationThenDestructionAround" func="yes">
+			<Overload retVal="" descr="ShowCreationThenDestructionAround(mobject, rect_animation=<class 'manim.animation.indication.ShowCreationThenDestruction'>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowCreationThenFadeAround" func="yes">
+			<Overload retVal="" descr="ShowCreationThenFadeAround(mobject, rect_animation=<class 'manim.animation.indication.ShowCreationThenFadeOut'>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowCreationThenFadeOut" func="yes">
+			<Overload retVal="" descr="ShowCreationThenFadeOut(mobject, remover=True, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowPassingFlash" func="yes">
+			<Overload retVal="" descr="ShowPassingFlash(mobject, time_width=0.1, remover=True, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShowPassingFlashAround" func="yes">
+			<Overload retVal="" descr="ShowPassingFlashAround(mobject, rect_animation=<class 'manim.animation.indication.ShowPassingFlash'>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TurnInsideOut" func="yes">
+			<Overload retVal="" descr="TurnInsideOut(mobject, path_arc=1.5707963267948966, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="WiggleOutThenIn" func="yes">
+			<Overload retVal="" descr="WiggleOutThenIn(mobject, scale_value=1.1, rotation_angle=0.06283185307179587, n_wiggles=6, scale_about_point=None, rotate_about_point=None, run_time=2, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ComplexHomotopy" func="yes">
+			<Overload retVal="" descr="ComplexHomotopy(complex_homotopy, mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Homotopy" func="yes">
+			<Overload retVal="" descr="Homotopy(homotopy, mobject, run_time=3, apply_function_kwargs=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="MoveAlongPath" func="yes">
+			<Overload retVal="" descr="MoveAlongPath(mobject, path, suspend_mobject_updating=False, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="PhaseFlow" func="yes">
+			<Overload retVal="" descr="PhaseFlow(function, mobject, virtual_time=1, suspend_mobject_updating=False, rate_func=<function linear>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="SmoothedVectorizedHomotopy" func="yes">
+			<Overload retVal="" descr="SmoothedVectorizedHomotopy(homotopy, mobject, run_time=3, apply_function_kwargs=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ChangeDecimalToValue" func="yes">
+			<Overload retVal="" descr="ChangeDecimalToValue(decimal_mob, target_number, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ChangingDecimal" func="yes">
+			<Overload retVal="" descr="ChangingDecimal(decimal_mob, number_update_func, suspend_mobject_updating=False, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Rotate" func="yes">
+			<Overload retVal="" descr="Rotate(mobject, angle=3.141592653589793, axis=array([0.0, 0.0, 1.0]), about_point=None, about_edge=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Rotating" func="yes">
+			<Overload retVal="" descr="Rotating(mobject, axis=array([0., 0., 1.]), radians=6.283185307179586, about_point=None, about_edge=None, run_time=5, rate_func=<function linear>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ApplyComplexFunction" func="yes">
+			<Overload retVal="" descr="ApplyComplexFunction(function, mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ApplyFunction" func="yes">
+			<Overload retVal="" descr="ApplyFunction(function, mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ApplyMatrix" func="yes">
+			<Overload retVal="" descr="ApplyMatrix(matrix, mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ApplyMethod" func="yes">
+			<Overload retVal="" descr="ApplyMethod(method, *args, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ApplyPointwiseFunction" func="yes">
+			<Overload retVal="" descr="ApplyPointwiseFunction(function, mobject, run_time=3.0, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ApplyPointwiseFunctionToCenter" func="yes">
+			<Overload retVal="" descr="ApplyPointwiseFunctionToCenter(function, mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ClockwiseTransform" func="yes">
+			<Overload retVal="" descr="ClockwiseTransform(mobject, target_mobject, path_arc=- 3.141592653589793, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="CounterclockwiseTransform" func="yes">
+			<Overload retVal="" descr="CounterclockwiseTransform(mobject, target_mobject, path_arc=3.141592653589793, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="CyclicReplace" func="yes">
+			<Overload retVal="" descr="CyclicReplace(*mobjects, path_arc=1.5707963267948966, **kwargs)">
+			</Overload>
+		</KeyWord>	
+		<KeyWord name="FadeToColor" func="yes">
+			<Overload retVal="" descr="FadeToColor(mobject, color, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeTransform" func="yes">
+			<Overload retVal="" descr="FadeTransform(mobject, target_mobject, stretch=True, dim_to_match=1, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="FadeTransformPieces" func="yes">
+			<Overload retVal="" descr="FadeTransformPieces(mobject, target_mobject, stretch=True, dim_to_match=1, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="MoveToTarget" func="yes">
+			<Overload retVal="" descr="MoveToTarget(mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ReplacementTransform" func="yes">
+			<Overload retVal="" descr="ReplacementTransform(mobject, target_mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Restore" func="yes">
+			<Overload retVal="" descr="Restore(mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ScaleInPlace" func="yes">
+			<Overload retVal="" descr="ScaleInPlace(mobject, scale_factor, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="ShrinkToCenter" func="yes">
+			<Overload retVal="" descr="ShrinkToCenter(mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Swap" func="yes">
+			<Overload retVal="" descr="Swap(*mobjects, path_arc=1.5707963267948966, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="Transform" func="yes">
+			<Overload retVal="" descr="Transform(mobject, target_mobject=None, path_func=None, path_arc=0, path_arc_axis=array([0.0, 0.0, 1.0]), replace_mobject_with_target_in_scene=False, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TransformAnimations" func="yes">
+			<Overload retVal="" descr="TransformAnimations(start_anim, end_anim, rate_func=<function squish_rate_func.<locals>.result>, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TransformFromCopy" func="yes">
+			<Overload retVal="" descr="TransformFromCopy(mobject, target_mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TransformMatchingAbstractBase" func="yes">
+			<Overload retVal="" descr="TransformMatchingAbstractBase(mobject, target_mobject, transform_mismatches=False, fade_transform_mismatches=False, key_map=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TransformMatchingShapes" func="yes">
+			<Overload retVal="" descr="TransformMatchingShapes(mobject, target_mobject, transform_mismatches=False, fade_transform_mismatches=False, key_map=None, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="TransformMatchingTex" func="yes">
+			<Overload retVal="" descr="TransformMatchingTex(mobject, target_mobject, transform_mismatches=False, fade_transform_mismatches=False, key_map=None, **kwargs)">
+			</Overload>
+		</KeyWord>	
+		<KeyWord name="MaintainPositionRelativeTo" func="yes">
+			<Overload retVal="" descr="MaintainPositionRelativeTo(mobject, tracked_mobject, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UpdateFromAlphaFunc" func="yes">
+			<Overload retVal="" descr="UpdateFromAlphaFunc(mobject, update_function, suspend_mobject_updating=False, **kwargs)">
+			</Overload>
+		</KeyWord>
+		<KeyWord name="UpdateFromFunc" func="yes">
+			<Overload retVal="" descr="UpdateFromFunc(mobject, update_function, suspend_mobject_updating=False, **kwargs)">
+			</Overload>
+		</KeyWord>	
+
+
 <!-- ================================== -->
 <!-- PYTHON MANIM CE COMMUNITY COMMANDS -->
 <!-- PYTHON MANIM CE CONSTANTS COMMANDS -->
 <!-- ================================== -->
-		<KeyWord name="ORIGIN" />		
-		<KeyWord name="UP" />		
-		<KeyWord name="DOWN" />		
-		<KeyWord name="RIGHT" />		
-		<KeyWord name="LEFT" />		
+		<KeyWord name="ORIGIN" />
+		<KeyWord name="UP" />
+		<KeyWord name="DOWN" />
+		<KeyWord name="RIGHT" />
+		<KeyWord name="LEFT" />
 		<KeyWord name="IN" />
-		<KeyWord name="OUT" />		
+		<KeyWord name="OUT" />
 		<KeyWord name="UL" />
-		<KeyWord name="UR" />		
+		<KeyWord name="UR" />
 		<KeyWord name="DL" />
-		<KeyWord name="DR" />		
+		<KeyWord name="DR" />
 		<KeyWord name="PI" />
 		<KeyWord name="TAU" />
 		<KeyWord name="DEGREES" />
@@ -1517,6 +1847,6 @@
 		<KeyWord name="LIGHT_PINK" />
 		<KeyWord name="GREEN_SCREEN" />
 		<KeyWord name="ORANGE" />
-	
+
 	</AutoComplete>
 </NotepadPlus>
